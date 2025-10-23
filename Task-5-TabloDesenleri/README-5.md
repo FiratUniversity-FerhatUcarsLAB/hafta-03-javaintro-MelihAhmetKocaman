@@ -1,1 +1,1 @@
-Verilen görevleri println komutuyla ouşturduk.
+Verilen görevleri println komutuyla oluşturduk.
