@@ -1,4 +1,4 @@
-public class gorev_4{
+public class gorev4_1{
     public static void main(String[] args){
 
         String ad = "Melih Ahmet";
@@ -15,3 +15,4 @@ public class gorev_4{
 
     }
 }
+
