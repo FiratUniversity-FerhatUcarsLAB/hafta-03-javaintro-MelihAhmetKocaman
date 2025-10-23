@@ -1,1 +1,1 @@
-Verilen görevleri double opeartörü ve println komutuyla oluşturduk. 
+Verilen görevleri double veri tipi ve println komutuyla oluşturduk. 
