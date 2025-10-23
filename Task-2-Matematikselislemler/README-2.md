@@ -1,1 +1,1 @@
-Verilen görevleri int opeartörü ve println komutuyla oluşturduk.
+Verilen görevleri int veri tipi ve println komutuyla oluşturduk.
